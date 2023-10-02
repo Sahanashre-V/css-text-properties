@@ -1,0 +1,15 @@
+/*Challenge1 */
+#html{text-align:initial;
+text-transform:inherit;
+line-height: 25px;
+}
+/*Challenge2*/
+#css{
+  text-align:start;
+  color:red;
+}
+/*Challenge3*/
+#js{
+  color:green;
+  text-transform: capitalize;
+}
